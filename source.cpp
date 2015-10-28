@@ -6,10 +6,10 @@
 #define sizeofArr(arr) ((sizeof(arr))/ sizeof(arr[0]))
 
 //Learning rate, lower is slower, [0.0, 1.0]
-#define ETA 1.0f
+#define ETA 0.1f
 
 //Momentum, lower is less, [0.0, n]
-#define ALPHA 0.15f
+#define ALPHA 0.6f
 
 struct Connection{
 	float weight;
@@ -248,7 +248,7 @@ int main(int argc, char** argv){
 	Net321 net = {};
 	CreateNet321(&net);
 
-#if 0
+#if 1
 	char* filename = "learningCase.lc";
 	FILE* learningCase = fopen(filename, "r");
 
@@ -279,7 +279,7 @@ int main(int argc, char** argv){
 		float avg = 0.0f;
 		float lastValue = 0.0f;
 		int convergeTime = 0;
-		for(int i = 0; i < 20000000; i++){
+		for(int i = 0; i < 200000; i++){
 
 			float sum = 0.0f;
 
