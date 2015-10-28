@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inpt",
+				"inputLayer"
+			],
+			[
+				"num",
+				"numInputs"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"aver",
+				"recentAverageError"
+			],
+			[
+				"recent",
+				"recentAverageError"
+			],
+			[
+				"size",
+				"sizeOfResults"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"siz",
+				"sizeOfNextlayer"
+			],
+			[
+				"si",
+				"sizeofArr"
+			],
+			[
+				"ot",
+				"outputLayer"
+			],
+			[
+				"recen",
+				"recentAverageError"
+			],
+			[
+				"pre",
+				"previouslayer"
+			],
+			[
+				"input",
+				"inputLayer"
+			],
+			[
+				"Create",
+				"CreateNeuron"
+			],
+			[
+				"Conn",
+				"Connection"
+			],
+			[
+				"inpu",
+				"inputLayer"
+			],
+			[
+				"auton",
+				"autonBufferSize"
+			],
+			[
+				"auto",
+				"autonBufferSize"
+			],
+			[
+				"autonBu",
+				"autonBuffer"
+			],
+			[
+				"GetIn",
+				"GetInputFileLocation"
+			],
+			[
+				"mem",
+				"memoryBlock"
+			],
+			[
+				"repla",
+				"replayBuffer"
+			],
+			[
+				"replay",
+				"replayBuffer"
+			],
+			[
+				"tot",
+				"totalELONMemoryBlock"
+			],
+			[
+				"rec",
+				"recordingHandle"
+			],
+			[
+				"EHL",
+				"ehlState"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source.cpp",
+			"settings":
+			{
+				"buffer_size": 8917,
+				"line_ending": "Windows",
+				"name": "#include <cstdio>"
+			}
+		},
+		{
+			"file": "test.dat",
+			"settings":
+			{
+				"buffer_size": 634,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "storedWeights.wt",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build.bat",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "learningCase.lc",
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Windows",
+				"name": "3"
+			}
+		}
+	],
+	"build_system": "Packages/User/NeuralNetwork.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Snippet: struct"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/C++ Repositories/Neural Networks/wow.txt",
+		"/Z/C++ Repositories/Neural Networks/build.bat",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/NeuralNetwork.sublime-build",
+		"/Z/FRC/Workspace/ELON Engine Prototype/make.bat",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/ELONEngine.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/EHL.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/DeployELONEngine.bat",
+		"/Z/FRC/Workspace/ELON Engine Prototype/Build.bat",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Actions.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Util.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Memory.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Elevator.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Chassis.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Input.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Source.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Actions.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Memory.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Elevator.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Chassis.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Input.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Util.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Properties.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Source.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/Deploy.bat",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/EHL.cpp",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/ELON_Engine.sublime-build",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/C.sublime-settings",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/ScopeHunter/scope_hunter.sublime-settings",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/C++11.sublime-settings",
+		"/Z/temporary/test_project.sublime-project",
+		"/Z/temporary/test_project.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+d",
+			"ctrl+shift+p",
+			"TEST_HEADER_H",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source.cpp",
+					"settings":
+					{
+						"buffer_size": 8917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3994,
+								3994
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <cstdio>",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1855.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "test.dat",
+					"settings":
+					{
+						"buffer_size": 634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "storedWeights.wt",
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "build.bat",
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "learningCase.lc",
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"auto_name": "3",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Z/C++ Repositories/Neural Networks/source.cpp"
+			],
+			[
+				"e",
+				"src/ELONEngine.cpp"
+			],
+			[
+				"make",
+				"make.bat"
+			],
+			[
+				"inc",
+				"inc/ELONEngine.h"
+			],
+			[
+				"in",
+				"inc/ELONEngine.h"
+			],
+			[
+				"elonen",
+				"inc/ELONEngine.h"
+			],
+			[
+				"ehl",
+				"inc/EHL.h"
+			],
+			[
+				"src/",
+				"src/ELONEngine.cpp"
+			],
+			[
+				"dep",
+				"DeployELONEngine.bat"
+			],
+			[
+				"bu",
+				"Build.bat"
+			],
+			[
+				"eh",
+				"src/EHL.cpp"
+			],
+			[
+				"inc/",
+				"inc/ELONEngine.h"
+			],
+			[
+				"a",
+				"inc/Actions.h"
+			],
+			[
+				"me",
+				"inc/Memory.h"
+			],
+			[
+				"elev",
+				"inc/Elevator.h"
+			],
+			[
+				"cha",
+				"inc/Chassis.h"
+			],
+			[
+				"inc/in",
+				"inc/Input.h"
+			],
+			[
+				"inc/uti",
+				"inc/Util.h"
+			],
+			[
+				"inc/pr",
+				"inc/Properties.h"
+			],
+			[
+				"inc/elon",
+				"inc/ELONEngine.h"
+			],
+			[
+				"uti",
+				"src/Util.cpp"
+			],
+			[
+				"build.bat",
+				"Build.bat"
+			],
+			[
+				"deploy",
+				"Deploy.bat"
+			],
+			[
+				"m",
+				"src/Memory.cpp"
+			],
+			[
+				"i",
+				"src/Input.cpp"
+			],
+			[
+				"c",
+				"src/Chassis.cpp"
+			],
+			[
+				"bui",
+				"Build.bat"
+			],
+			[
+				"u",
+				"inc/Util.h"
+			],
+			[
+				"p",
+				"ELON Engine Prototype/inc/Properties.h"
+			],
+			[
+				"b",
+				"/Z/FRC/Workspace/ELON Engine Prototype/Build.bat"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Z/C++ Repositories/C Lessons/C Lessons.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
